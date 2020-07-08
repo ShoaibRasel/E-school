@@ -209,7 +209,7 @@ header .collapse .navbar-nav .nav-item a:hover{
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
-    color: #413960;
+    color: black;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 60px;
@@ -256,7 +256,7 @@ footer.nb-footer {
 }
     footer.nb-footer .footer-info-single ul li a {
     display: block;
-    color: #aaa;
+    color: #fff;
     padding: 2px 0;
     line-height: 20px; 
 }
@@ -266,7 +266,7 @@ footer.nb-footer {
     footer.nb-footer .footer-info-single p {
     font-size: 13px;
     line-height: 20px;
-    color: #aaa; 
+    color: #fff; 
 }
     footer.nb-footer .copyright {
     margin-top: 15px;
